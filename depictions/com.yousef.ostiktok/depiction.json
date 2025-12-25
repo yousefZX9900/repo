@@ -1,0 +1,90 @@
+{
+  "minVersion": "0.1",
+  "class": "DepictionTabView",
+  "tintColor": "#FF0050",
+  "tabs": [
+    {
+      "class": "DepictionStackView",
+      "tabname": "Details | التفاصيل",
+      "views": [
+        {
+          "class": "DepictionScreenshotsView",
+          "itemCornerRadius": 8,
+          "itemSize": "{173, 320}",
+          "screenshots": [
+            {
+              "url": "https://yousefzx9900.github.io/repo-dist/depictions/com.yousef.ostiktok/screenshots/1.jpg",
+              "accessibilityText": "Screenshot 1"
+            },
+            {
+              "url": "https://yousefzx9900.github.io/repo-dist/depictions/com.yousef.ostiktok/screenshots/2.jpg",
+              "accessibilityText": "Screenshot 2"
+            },
+            {
+              "url": "https://yousefzx9900.github.io/repo-dist/depictions/com.yousef.ostiktok/screenshots/3.jpg",
+              "accessibilityText": "Screenshot 3"
+            }
+          ]
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "أداة مدفوعة توفر تجربة تيك توك متكاملة.\n\n**المميزات الرئيسية:**\n\n**• تجربة المشاهدة:** تجربة نقية، تنزيل الوسائط بدون علامة مائية، تعليقات شفافة، إظهار أسماء المستخدمين.\n\n**• الملف الشخصي:** حفظ صورة الملف الشخصي، نسخ البايو، إظهار تواريخ النشر وعدد الإعجابات.\n\n**• التشغيل والأمان:** تشغيل تلقائي، إيقاف التكرار، تخطي المقترحات، إزالة التحذيرات.\n\n**• أدوات متقدمة:** تغيير المنطقة (Region)، سجل الأخطاء، أدوات المطورين.\n\n---\n\nPaid tweak providing a complete TikTok experience.\n\n**Key Features:**\n\n**• Experience:** Pure experience, download media (no watermark), transparent comments, show usernames.\n\n**• Profile:** Save Profile Picture, copy bio, show dates & like counts.\n\n**• Playback:** Auto-play, stop looping, skip recommendations, remove warnings.\n\n**• Advanced:** Change Region, error logs, developer tools.\n\n**Links:**",
+          "useSpacing": true
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "شراء الترخيص | Get License (Patreon)",
+          "action": "https://www.patreon.com/OS_Tweaks",
+          "tintColor": "#FF424D"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "المطور | Developer (Twitter/X)",
+          "action": "https://x.com/yousef_dev921",
+          "tintColor": "#1DA1F2"
+        },
+        {
+          "class": "DepictionTableButtonView",
+          "title": "الكود المصدري | Source Code (GitHub)",
+          "action": "https://github.com/yousefZX9900/OSTikTok",
+          "tintColor": "#333333"
+        },
+        {
+          "class": "DepictionSeparatorView"
+        },
+        {
+          "class": "DepictionSubheaderView",
+          "title": "متوافق مع تيك توك 42.2.0 | Compatible with TikTok 42.2.0",
+          "useBoldText": false
+        },
+        {
+          "class": "DepictionLabelView",
+          "text": "© 2025 Yousef | يوسف",
+          "textColor": "#999999",
+          "alignment": 1
+        }
+      ]
+    },
+    {
+      "class": "DepictionStackView",
+      "tabname": "التحديثات | Updates",
+      "views": [
+        {
+          "class": "DepictionHeaderView",
+          "title": "الإصدار 1.0.0 | Version 1.0.0",
+          "useBoldText": true
+        },
+        {
+          "class": "DepictionMarkdownView",
+          "markdown": "**العربية:**\n- الإصدار الأول\n- دعم كامل للغة العربية\n- ميزات مدفوعة مع تفعيل الترخيص\n- تصميم حديث لـ iOS 15+\n\n---\n\n**English:**\n- Initial release\n- English language support\n- Premium features with license activation\n- Modern iOS 15+ UI design"
+        }
+      ]
+    }
+  ]
+}
