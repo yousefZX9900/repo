@@ -6,10 +6,10 @@ Codename: ios
 Architectures: iphoneos-arm64
 Components: main
 Description: OS Tweaks Repository
-Icon: https://yousefzx9900.github.io/repo-dist/CydiaIcon.png
+Icon: https://yousefzx9900.github.io/repo/CydiaIcon.png
 MD5Sum:
- c8e5dfecb47e44ab07d882dfc28972ba 600 Packages
- 7bd3c1f9a3bbecdd53fb01e555ecf020 403 Packages.gz
+ f6e8e8241c9b0e8a9c97554ba0f71611 590 Packages
+ b9f77ddaccb9c09022f4a89f710bce69 402 Packages.gz
 SHA256:
- f23bd24b64a3a798afd1c00a88b8dece588d150a498cc0fe0cd3f7abadf4bf2a 600 Packages
- b700b83fc4bff6f40d0abe86e5bd3be62eea7ff1ca8094add4c373c427df89ae 403 Packages.gz
+ 322ec3ba5c1ea5b9519729847076e2de96e2ecc1097fd6fbd10908671b0f9f85 590 Packages
+ 75610cf57dffea18197184e685b58ad7a4e232df98418c4c34f8ac530b5de929 402 Packages.gz

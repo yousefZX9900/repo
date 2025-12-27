@@ -1,16 +1,16 @@
 Package: com.yousef.ostiktok
 Name: OSTikTok
-Version: 1.0.0-5
+Version: 1.0.0-1
 Architecture: iphoneos-arm64
 Maintainer: Yousef
 Author: Yousef
 Section: Tweaks
 Depends: firmware (>= 15.0), ellekit
-Filename: debs/com.yousef.ostiktok_1.0.0-5_iphoneos-arm64.deb
-Size: 151648
-MD5sum: f6415a65aff2dfcd0f5805c266fcaf64
-SHA256: fbe86456b522bab3c5fd82b0496bec1fbaeb4a3792a9aaf8cec66ca4f31229e9
+Filename: debs/com.yousef.ostiktok_1.0.0-1_iphoneos-arm64.deb
+Size: 171822
+MD5sum: 61f392ce9314bb7794700fd879dcafec
+SHA256: b20b87e8f54dbe920a43777706c96f9a2c1dd2d1b708625795e2cade795ec696
 Description: TikTok Experience - Ad-free, download videos, and more.
-Icon: https://yousefzx9900.github.io/repo-dist/CydiaIcon.png
-SileoDepiction: https://yousefzx9900.github.io/repo-dist/depictions/com.yousef.ostiktok/depiction.json
+Icon: https://yousefzx9900.github.io/repo/CydiaIcon.png
+SileoDepiction: https://yousefzx9900.github.io/repo/depictions/com.yousef.ostiktok/depiction.json
 
