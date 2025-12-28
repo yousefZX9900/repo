@@ -1,16 +1,36 @@
+Package: com.mutelock.tweak
+Version: 1.1.0
+Architecture: iphoneos-arm64
+Maintainer: Yousef <yousef_dev921@twitter>
+Installed-Size: 368
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate | substitute | libhooker | ellekit, preferenceloader
+Filename: ./debs/com.mutelock.tweak_1.1.0_iphoneos-arm64.deb
+Size: 30724
+MD5sum: cc9c2904cab91490e611bed37774e065
+SHA1: 250f50b64f44edf7b3400750a106c26610045f25
+SHA256: 24a24aa0efa6a5295dda0e1501c72133a210695fd53309dd9b977b7cb93b57aa
+Section: Tweaks
+Description: Advanced privacy shield. Blocks Camera & Mic using 'Smart Data Zeroing' and optional 'Extreme Protection' to kill media daemons. Features temporary unlock and logs.
+Author: Yousef
+Depiction: https://x.com/yousef_dev921
+Icon: file:///var/jb/Library/PreferenceBundles/MuteLockPrefs.bundle/icon@2x.png
+Name: MuteLock
+
 Package: com.yousef.ostiktok
-Name: OSTikTok
-Version: 1.0.0-1
+Version: 1.0.0-3
 Architecture: iphoneos-arm64
 Maintainer: Yousef
-Author: Yousef
-Section: Tweaks
-Depends: firmware (>= 15.0), ellekit
-Filename: debs/com.yousef.ostiktok_1.0.0-1_iphoneos-arm64.deb
+Installed-Size: 572
+Depends: firmware (>= 15.0), preferenceloader, ellekit
+Filename: ./debs/com.yousef.ostiktok_1.0.0-1_iphoneos-arm64.deb
 Size: 171822
 MD5sum: 61f392ce9314bb7794700fd879dcafec
+SHA1: f4fdaeed47f7a447588b2e5cb1fce7a6d64bf2f6
 SHA256: b20b87e8f54dbe920a43777706c96f9a2c1dd2d1b708625795e2cade795ec696
-Description: TikTok Experience - Ad-free, download videos, and more.
-Icon: https://yousefzx9900.github.io/repo/CydiaIcon.png
-SileoDepiction: https://yousefzx9900.github.io/repo/depictions/com.yousef.ostiktok/depiction.json
+Section: Tweaks
+Description: Enhanced TikTok Experience - Download videos, customize interface, and advanced tools
+Author: Yousef
+Icon: https://yousefzx9900.github.io/repo-dist/CydiaIcon.png
+Name: OSTikTok
+Sileodepiction: https://yousefzx9900.github.io/repo-dist/depictions/com.yousef.ostiktok/depiction.json
 
