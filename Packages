@@ -16,6 +16,24 @@ Depiction: https://x.com/yousef_dev921
 Icon: file:///var/jb/Library/PreferenceBundles/MuteLockPrefs.bundle/icon@2x.png
 Name: MuteLock
 
+Package: com.mutelock.tweak
+Version: 1.1.1
+Architecture: iphoneos-arm64
+Maintainer: Yousef <yousef_dev921@twitter>
+Installed-Size: 368
+Depends: firmware (>= 15.0), firmware (<< 17.0), mobilesubstrate | substitute | libhooker | ellekit, preferenceloader
+Filename: ./debs/com.mutelock.tweak_1.1.1_iphoneos-arm64.deb
+Size: 30460
+MD5sum: f5c43bd8710d0a97460b4e6175dd0a6a
+SHA1: 7ee27612841ed5934c7c6f7e5db66aec01758d15
+SHA256: 10e43a392cd96ad4d0f4b15a0a45ec4248c2f7dcbb14d95bb43348d7705b2f78
+Section: Tweaks
+Description: Advanced privacy shield. Blocks Camera & Mic using 'Smart Data Zeroing' and optional 'Extreme Protection' to kill media daemons. Features temporary unlock and logs.
+Author: Yousef
+Depiction: https://x.com/yousef_dev921
+Icon: file:///var/jb/Library/PreferenceBundles/MuteLockPrefs.bundle/icon@2x.png
+Name: MuteLock
+
 Package: com.yousef.ostiktok
 Version: 1.0.0-3
 Architecture: iphoneos-arm64
